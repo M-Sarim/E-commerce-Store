@@ -50,7 +50,7 @@ This project is licensed under the **MIT License** – see the `LICENSE` file fo
 
 ## 📧 Contact
 For inquiries, feel free to reach out:
-📩 Email: your-email@example.com  
+📩 Email: muhammad2004sarim@gmail.com
 🔗 GitHub: [M-Sarim](https://github.com/M-Sarim)
 
 ---
