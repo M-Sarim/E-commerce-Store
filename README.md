@@ -52,6 +52,6 @@ This project is licensed under the **MIT License** – see the `LICENSE` file fo
 For inquiries, feel free to reach out:
 📩 Email: muhammad2004sarim@gmail.com
 🔗 GitHub: [M-Sarim](https://github.com/M-Sarim)
-
+💼 LinkedIn: [Muhammad Sarim](www.linkedin.com/in/imuhammadsarim)
 ---
-💻 Built with ❤️ by Muhammad Sarim
+💻 Developed by Muhammad Sarim
