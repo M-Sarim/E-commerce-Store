@@ -25,7 +25,7 @@ The **Men's E-Commerce Store** is a feature-rich, multi-user platform built usin
 ## 🛠️ Installation & Setup
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/MuhammadSarim07/E-commerce-Store.git
+   git clone https://github.com/M-Sarim/E-commerce-Store.git
    cd E-commerce-Store
    ```
 2. **Set Up the Database:**
